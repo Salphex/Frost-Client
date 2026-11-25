@@ -21,4 +21,5 @@ Highlights: KillAura, AimAssist, Velocity, Flight, Speed, Scaffold, ESP, XRay, F
 
 # Disclaimer
 Most multiplayer servers prohibit hack clients. Use in singleplayer or on servers that explicitly allow modifications. The author is not responsible for any bans or consequences.
+
 <img width="1672" height="941" alt="e94792a8-b383-4184-a1eb-39ef03d77954" src="https://github.com/user-attachments/assets/8d61b8d8-42dc-4916-bc9d-4342fd09c211" />
