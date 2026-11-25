@@ -21,3 +21,4 @@ Highlights: KillAura, AimAssist, Velocity, Flight, Speed, Scaffold, ESP, XRay, F
 
 # Disclaimer
 Most multiplayer servers prohibit hack clients. Use in singleplayer or on servers that explicitly allow modifications. The author is not responsible for any bans or consequences.
+<img width="1920" height="1080" alt="FrostClientBanner" src="https://github.com/user-attachments/assets/83ca15b9-e665-4c0b-984c-7f14dfd49037" />
